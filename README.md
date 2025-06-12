@@ -1,1 +1,2 @@
 RS Infotech is one of the premier institutes for technical education in Vasai .I have recently developed a brand-new website for RS Infotech, showcasing its offerings and making information easily accessible to prospective students. The website is available in the following repository:
+https://loquacious-boba-e805c1.netlify.app/
